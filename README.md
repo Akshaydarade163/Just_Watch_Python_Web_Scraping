@@ -3,7 +3,7 @@ This project demonstrates web scraping techniques to extract movie and TV show d
 
 ![just_watch](https://github.com/user-attachments/assets/e5c6d591-f1a6-4844-8e91-e5941e394de1)
 
-a. Movie Information:
+#### a. Movie Information:
 
   - Movie title
   - Release year
@@ -11,8 +11,8 @@ a. Movie Information:
   - IMDb rating
   - Streaming services available (Netflix, Amazon Prime, Hulu, etc.)
   - URL to the movie page on JustWatch
-b. TV Show Information:
 
+#### b. TV Show Information:
   - TV show title
   - Release year
   - Genre
