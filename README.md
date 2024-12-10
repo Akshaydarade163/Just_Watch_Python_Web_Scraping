@@ -19,3 +19,10 @@ This project demonstrates web scraping techniques to extract movie and TV show d
   - IMDb rating
   - Streaming services available (Netflix, Amazon Prime, Hulu, etc.)
   - URL to the TV show page on JustWatch
+
+### Conclusion
+* Predominant Streaming Services: Netflix leads in popularity, followed by Amazon Prime Video and Jio Cinema, with smaller platforms like Hotstar and Sony Liv showing potential for growth.
+
+* Top Genres: Drama is the most dominant genre, while hybrid genres like Crime-Drama-Thriller and Comedy-Drama-Romance also attract significant attention.
+
+* Opportunities for Platforms: Platforms can expand by focusing on high-demand genres and catering to niche audiences with unique or underrepresented content.
